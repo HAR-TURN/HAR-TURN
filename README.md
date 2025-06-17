@@ -22,5 +22,5 @@
 
 ---
 
-🌱 *Currently learning:*  Cyber Security | Automation with Python  
+🌱 *Currently learning:*  Cyber Security | Automation with Python/Java  
 🚀 *Open to internships, collaborations, and exciting security projects!*
